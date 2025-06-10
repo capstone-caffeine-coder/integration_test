@@ -1,0 +1,6 @@
+[submodule "server"]
+	path = server
+	url = https://github.com/capstone-caffeine-coder/pitza_server.git
+[submodule "client"]
+	path = client
+	url = https://github.com/capstone-caffeine-coder/pitza_client.git
